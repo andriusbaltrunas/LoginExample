@@ -9,8 +9,11 @@
 <html>
   <head>
     <title></title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
-
+    <div id="test">
+      this is my css test
+    </div>
   </body>
 </html>

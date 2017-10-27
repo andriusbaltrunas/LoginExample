@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <div class="row">
-        <div class="col-6">
+        <div class="col-md-6 mx-auto mt-auto">
             <c:if test="${not empty errorMsg}">
                 <div class="alert alert-danger" role="alert">
                     <strong>${errorMsg}</strong>
